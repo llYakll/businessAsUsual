@@ -87,4 +87,3 @@ module.exports = {
   getAllRoles
 };
 
-//i probably shouldve used object mapping more but i've grown tired of this and i am behind.
