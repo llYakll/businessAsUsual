@@ -156,5 +156,5 @@ async function promptUser() {
   }
 }
 
-// Start 
+// this function starts the app
 promptUser();

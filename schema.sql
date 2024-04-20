@@ -1,4 +1,6 @@
--- Drop the database if it exists
+-- this is only here for initial set up of my project 
+-- and will need to be removed once the database is created to prevent the database from basically rewriting the database to my
+-- "default values"
 DROP DATABASE IF EXISTS employee_db;
 
 -- Create the employee_db database if it does not exist
